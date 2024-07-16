@@ -8,5 +8,5 @@ receivers:
         - webhook_url: 'https://discord.com/api/webhooks/1154823137674919957/3CVGVtKrWYE0x-i4OZi7VOzOF0BdC5UgFrNyChrL97d5zH-qgY6bH347Dgwwal8kStkt'
           send_resolved: false
       webhook_configs:
-        - url: 'https://webhook.site/c2058391-210e-4b49-9243-2fd8b01774f1'
+        - url: 'https://webhook.site/e5705fa6-1563-4f4b-bb39-2497ca34eedd'
           send_resolved: false
